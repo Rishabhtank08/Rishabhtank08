@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabhtank08
+- 👋 Hi, I’m @Rushabhtank08
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning Java and python.
 - 📫 How to reach me Email - rishitank08@gmail.com
